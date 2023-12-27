@@ -1,0 +1,1 @@
+web: qunicorn django_project.wsgi --log-file -
